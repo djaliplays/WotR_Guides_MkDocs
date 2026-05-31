@@ -9,3 +9,7 @@ nav:
     - Feud of the Faithful: Guides/Feud/feud.md
 plugins:
   - search
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

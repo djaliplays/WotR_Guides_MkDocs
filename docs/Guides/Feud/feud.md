@@ -89,12 +89,17 @@ Before focusing on XP optimization, we’ll look at how *Feud of the Faithful* i
 
 - **Hulrun** and/or **Ramien** will show up in Act 5 if alive.
 - **Hulrun** is useful in a specific Act 5 event. If you're Aeon a certain different character can take the same role. If you're Trickster you can ignore certain consequences.
->! Hulrun can protect the Sword of Valor during Heart of the Fallen Land, allowing you to do another objective first. Aeon can have Staunton Vhane protect it as well. Trickster has a special option on failure that I'm avoiding spoiling myself on. <!
+??? note "Spoiler"
+    Hulrun can protect the Sword of Valor during Heart of the Fallen Land, allowing you to do another objective first. Aeon can have Staunton Vhane protect it as well. Trickster has a special option on failure that I'm avoiding spoiling myself on. 
 -  **Killing both** introduces a new character that takes the place of Hulrun and fullfills the same exact role in the aforementioned event (and in general).
->! If both die, Chun Dawei takes Hulrun's role in most things, including protecting the Sword of Valor during Heart of the Fallen Land. !<
+??? note "Spoiler"
+    If both die, Chun Dawei takes Hulrun's role in most things, including protecting the Sword of Valor during Heart of the Fallen Land. 
 - **Ramien** is relevant in a separate Act 5 event; if you selected the Trickster dialog option for Nura in Act 2, she can help reach the same outcome.
->! During *Cascade of Fire*, Ramien will save the Stargazers if you decide to *stop Mutasafen*, but at the cost of his own life. If you decide to *save the Stargazers*, Nurah (if converted to your side) will stop Mutasafen from escaping. <!
-- You may offer either Ramien or Hulrun to the Cannibal >! (Camellia) !< in Act 5, provided at least one is still alive.
+??? note "Spoiler"
+    During *Cascade of Fire*, Ramien will save the Stargazers if you decide to *stop Mutasafen*, but at the cost of his own life. If you decide to *save the Stargazers*, Nurah (if converted to your side) will stop Mutasafen from escaping. !<
+- You may offer either Ramien or Hulrun to the Cannibal in Act 5, provided at least one is still alive.
+??? note "Spoiler"
+    Camellia
 
 **Note:** I've personally not played Trickster in Act 5 yet, this is based on what I've read online.
 
