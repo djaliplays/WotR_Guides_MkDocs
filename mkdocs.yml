@@ -1,0 +1,11 @@
+site_name: Djali Plays 
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Deep Dive Guides:
+    - Shared Experience: Guides/SharedXP/active_xp.md
+    - Shared Experience Addendum: Guides/SharedXP/wotr_graphs.md
+    - Feud of the Faithful: Guides/Feud/feud.md
+plugins:
+  - search
