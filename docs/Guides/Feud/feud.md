@@ -96,7 +96,7 @@ Before focusing on XP optimization, we’ll look at how *Feud of the Faithful* i
     If both die, Chun Dawei takes Hulrun's role in most things, including protecting the Sword of Valor during Heart of the Fallen Land. 
 - **Ramien** is relevant in a separate Act 5 event; if you selected the Trickster dialog option for Nura in Act 2, she can help reach the same outcome.
 ??? note "Spoiler"
-    During *Cascade of Fire*, Ramien will save the Stargazers if you decide to *stop Mutasafen*, but at the cost of his own life. If you decide to *save the Stargazers*, Nurah (if converted to your side) will stop Mutasafen from escaping. !<
+    During *Cascade of Fire*, Ramien will save the Stargazers if you decide to *stop Mutasafen*, but at the cost of his own life. If you decide to *save the Stargazers*, Nurah (if converted to your side) will stop Mutasafen from escaping. 
 - You may offer either Ramien or Hulrun to the Cannibal in Act 5, provided at least one is still alive.
 ??? note "Spoiler"
     Camellia
