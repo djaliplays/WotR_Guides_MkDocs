@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-To maximize XP in Feud of the Faithful, exploit how most of the peaceful route’s XP is awarded before the quest's formal completion. This allows you to double-dip by resolving the quest peacefully for dialogue XP, then killing Hulrun or Ramien for combat XP, and still turning in the quest to the surviving party.
+To maximize XP in Feud of the Faithful, exploit how most of the peaceful route’s XP is awarded before the quest's formal completion. This allows you to double-dip by resolving the quest peacefully for dialogue XP, then killing Hulrun or Ramien for combat XP, and still turning in the quest to the surviving party for even more XP.
 
 Optimal routes look like this:
 
@@ -22,7 +22,7 @@ This yields:
 
 - Full Starward Gaze XP if done right
 
-If you only want the final, step-by-step optimised routes, you can skip ahead to the [Peaceful → Kill Routes](#peaceful--kill-routes) section.
+If you only want the final, step-by-step optimised routes, you can skip ahead to the [Peaceful → Kill Routes](#Peaceful--Kill-Routes) section.
 
 ## Video
 
@@ -242,7 +242,7 @@ This section analyzes the various outcomes of the *Feud of the Faithful* questli
 - If you don't show Hulrun the Light of Heaven, he'll attack you when you try to convince him.
 
 
-## Peaceful → Kill Routes (Feud and Starward Gaze)
+## Peaceful → Kill Routes 
 
 You gain the bulk of the *Peaceful Feud of the Faithful* route not after completion, but at an earlier point, namely when you convince Hulrun.
 This allows us to do a mixed approach, were we first convince Hulrun, get the majority of the XP, but then deviate and kill either Hulrun or Ramien instead, gaining the combat XP and turn-in XP from that route as well.
