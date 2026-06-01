@@ -1,4 +1,4 @@
-site_name: Djali Plays 
+site_name: Djali's WotR Hub 
 theme:
   name: material
 nav:
@@ -13,3 +13,5 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+extra_css:
+  - stylesheets/pathfinder.css
