@@ -1,8 +1,8 @@
-# Feud of the Faithful XP Maximization
+# Feud of the Faithful XP Maximisation
 
 ## TL;DR
 
-To maximize XP in Feud of the Faithful, exploit how most of the peaceful route’s XP is awarded before the quest's formal completion. This allows you to double-dip by resolving the quest peacefully for dialogue XP, then killing Hulrun or Ramien for combat XP, and still turning in the quest to the surviving party for even more XP.
+To maximize XP in Feud of the Faithful, exploit how most of the peaceful route’s XP is awarded before the quest's formal completion. This allows you to double-dip by resolving the quest peacefully for dialogue XP, then killing Hulrun or Ramien getting some combat XP, and still turning in the quest to the surviving party for even more XP.
 
 Optimal routes look like this:
 
@@ -50,7 +50,7 @@ For the latter, also see my [Deep Dive: Shared Experience](https://youtu.be/T-W8
 
 ## Effect on playthrough
 
-Before focusing on XP optimization, we’ll look at how *Feud of the Faithful* influences the broader playthrough.
+Before focusing on XP optimisation, we’ll look at how *Feud of the Faithful* influences the broader playthrough.
 
 
 ### Main Outcomes of the Feud of the Faithful
@@ -184,7 +184,7 @@ There are two main ways to complete *Starward Gaze*, I also included a failure r
 
 ## Feud of the Faithful 
 
-This section analyzes the various outcomes of the *Feud of the Faithful* questline in terms of XP optimization, incorporating the related *Starward Gaze* quest when relevant.
+This section analyzes the various outcomes of the *Feud of the Faithful* questline in terms of XP optimisation, incorporating the related *Starward Gaze* quest when relevant.
 
 
 ### Naive Routes (Suboptimal)

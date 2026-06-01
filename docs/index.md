@@ -1,17 +1,33 @@
-# Djali's Pathfinder: Wrath of the Righteous Hub
+# Djali's Wrath of the Righteous Hub
 
-Welcome to my Pathfinder: Wrath of the Righteous Hub.
+Welcome to my Pathfinder: Wrath of the Righteous hub.
 
-This site collects my guides, notes, playthroughs, build discussions, and other resources for Pathfinder: Wrath of the Righteous. The goal is to provide practical, well-organised information that is easy to browse and reference.
+This site collects my guides, notes, playthroughs, builds, and other resources for Pathfinder: Wrath of the Righteous.
 
+## What You'll Find Here
 
-## What you'll find here
+* My later deep dive guides
 
-* Written guides
-* WIP
+### Coming Soon
+
+Some of my older guides currently exist only as LaTeX slide decks, including my Vital Strike guide. These will be converted into full written guides over time.
+
+Other planned additions include:
+
+* More deep dive guides
+* Builds 
+* Playthrough resources
+* Various other notes
 
 ## About
 
-I'm Djali,
+I'm Djali.
 
-WIP
+I keep trying to get on with my Wrath of the Righteous playthrough, but I inevitably get distracted by digging into specific mechanics, systems, and optimisation problems.
+
+## Elsewhere
+
+YouTube: https://www.youtube.com/@DjaliPlays/videos
+
+Reddit: https://old.reddit.com/user/DjaliPlays/
+

@@ -317,3 +317,78 @@ h6,
 }
 
 
+/* Tables *
+
+.md-typeset table:not([class]) {
+    background-color: var(--bgtan);
+}
+
+.md-typeset table:not([class]) th {
+    background-color: var(--titlered);
+    color: white;
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+    border-color: var(--pagegold);
+}
+*/
+
+
+.md-typeset table:not([class]) {
+    background-color: var(--bgtan);
+    border: 1px solid var(--pagegold);
+    font-family: "Scaly Sans", sans-serif;
+
+}
+
+.md-typeset table:not([class]) th {
+    background-color: var(--titlered);
+    color: var(--bgtan2018);
+    /*font-family: "Zatanna Misdirection", sans-serif;*/
+    font-family: "Scaly Sans Caps", sans-serif;
+    font-weight: normal;
+}
+
+.md-typeset table:not([class]) td {
+    background-color: var(--bgtan);
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) td {
+    background-color: #f4ead2;
+}
+
+/* admonitions */
+
+
+
+.md-typeset details.note {
+    background-color: var(--bgtan);
+    border: 1px solid var(--pagegold);
+}
+
+/*.md-typeset details.note summary {
+    background-color: var(--titlered);
+    color: var(--bgtan2018);
+    font-family: "Mr Eaves Small Caps", serif;
+}*/
+
+/* remove ugly blue pencil thingy */
+.md-typeset details.note > summary::before {
+    display: none !important;
+}
+
+/* turn the arrow red */
+.md-typeset details summary::after {
+    color: var(--titlered) !important;
+}
+
+.md-typeset details.note summary {
+    background-color: var(--phb-tan);
+    color: var(--titlered);
+}
+
+.md-typeset details.note .admonition-content,
+.md-typeset details.note > div {
+    background-color: var(--bgtan);
+}
