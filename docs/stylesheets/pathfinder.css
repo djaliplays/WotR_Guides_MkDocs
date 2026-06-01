@@ -227,20 +227,43 @@ body,
 }
 
 /* Header bar*/
-/*[data-md-color-scheme="default"] {
-    --md-primary-fg-color: var(--titlered);
-}*/
 
 :root {
     /*--md-primary-fg-color: var(--pagegold);*/
     --md-primary-fg-color: var(--titlered);
 }
 
+.md-header {
+    border-bottom: 5px solid var(--titlegold);
+}
+
+/* links */
+.md-typeset a {
+    color: var(--rulered);
+}
+
 /* nav and sidebar*/
 
 .md-nav__title {
-    border-bottom: none;
+    color: var(--titlered) !important;
+    background: transparent !important;
+    font-family: "Mr Eaves Small Caps", serif;
+    font-size: 1rem;
 }
+
+.md-nav__title {
+    box-shadow: none !important;
+}
+
+
+/*.md-sidebar__inner {
+    background: var(--bgtan) !important;
+}*/
+
+/*.md-nav {
+    background: hotpink !important;
+}*/
+
 
 /* colors */
 .md-typeset h1,
@@ -277,6 +300,7 @@ body,
 h1,
 .md-typeset h1 {
     font-family: "Nodesto", serif;
+    font-size: 2.5rem;
 }
 
 h2,
