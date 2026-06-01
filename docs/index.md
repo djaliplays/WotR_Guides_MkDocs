@@ -27,7 +27,7 @@ I keep trying to get on with my Wrath of the Righteous playthrough, but I inevit
 
 ## Elsewhere
 
-YouTube: https://www.youtube.com/@DjaliPlays/videos
+YouTube: [DjaliPlays](https://www.youtube.com/@DjaliPlays/videos)
 
-Reddit: https://old.reddit.com/user/DjaliPlays/
+Reddit: [DjaliPLays](https://old.reddit.com/user/DjaliPlays/)
 
