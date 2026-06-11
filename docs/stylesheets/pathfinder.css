@@ -367,16 +367,21 @@ h6,
     border: 1px solid var(--pagegold);
 }
 
+.md-typeset details.warning {
+    background-color: var(--bgtan);
+    border: 1px solid var(--pagegold);
+}
+
 /*.md-typeset details.note summary {
     background-color: var(--titlered);
     color: var(--bgtan2018);
     font-family: "Mr Eaves Small Caps", serif;
 }*/
 
-/* remove ugly blue pencil thingy */
+/* remove ugly blue pencil thingy 
 .md-typeset details.note > summary::before {
     display: none !important;
-}
+}*/
 
 /* turn the arrow red */
 .md-typeset details summary::after {

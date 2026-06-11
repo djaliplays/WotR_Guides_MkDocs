@@ -1,4 +1,4 @@
-# Djali's Wrath of the Righteous Hub
+# Djali's Wrath of the Righteous Hub 
 
 Welcome to my Pathfinder: Wrath of the Righteous hub.
 
@@ -27,7 +27,12 @@ I keep trying to get on with my Wrath of the Righteous playthrough, but I inevit
 
 ## Elsewhere
 
-YouTube: [DjaliPlays](https://www.youtube.com/@DjaliPlays/videos)
+:fontawesome-brands-youtube:{ .youtube } [DjaliPlays](https://www.youtube.com/@DjaliPlays/videos)
 
-Reddit: [DjaliPLays](https://old.reddit.com/user/DjaliPlays/)
+:fontawesome-brands-reddit:{ .reddit } [DjaliPlays](https://old.reddit.com/user/DjaliPlays/)
+
+<!-- 
+:fontawesome-brands-steam:[djali.plays](https://steamcommunity.com/profiles/76561199840614091/myworkshopfiles/?section=guides)
+
+-->
 

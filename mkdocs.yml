@@ -1,6 +1,8 @@
 site_name: Djali's WotR Hub 
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/dice-d20
 nav:
   - Home: index.md
   - Deep Dive Guides:
@@ -13,5 +15,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 extra_css:
   - stylesheets/pathfinder.css
+  - stylesheets/extra.css
